@@ -1,0 +1,1 @@
+print("hello,'\n'good morning,'\n' how are you")

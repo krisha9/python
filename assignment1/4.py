@@ -1,0 +1,12 @@
+x=True
+y=False
+print("x =",x)
+print("y =",y)
+print("\nPerforming 'not x' operation result=",not x)
+print("\nPerforming 'x and y'operation result =" ,x and y)
+print("\nPerforming 'x  or y'operation result =", x or y)
+print("\nPerforming 'not(x and y)'operation result =",not(x and y))
+print("\nPerforming 'not(x or y)' operation result =",not(x or y))
+print("\nPerforming '(x or not(y))' operation result =",(x or not(y)))
+print("\nPerforming '(not(x) and y)' operation result =",(not(x) and y))
+print("\nPerforming '((x and y) or y) or (not x) )' operation result =",(((x and y) or x) and (not(y)) ))
